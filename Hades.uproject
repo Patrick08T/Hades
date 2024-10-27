@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D3F0917F-42B9-8C95-8B37-A69FC7410FBD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Hades",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
